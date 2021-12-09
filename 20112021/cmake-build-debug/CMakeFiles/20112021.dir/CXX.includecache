@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mipper/CLionProjects/20112021/27112021.cpp
+iostream
+-
+Point2D.h
+/home/mipper/CLionProjects/20112021/Point2D.h
+
+/home/mipper/CLionProjects/20112021/Point2D.h
+

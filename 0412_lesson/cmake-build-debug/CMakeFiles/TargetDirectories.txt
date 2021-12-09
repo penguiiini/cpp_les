@@ -1,0 +1,3 @@
+/home/mipper/CLionProjects/0412_lesson/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mipper/CLionProjects/0412_lesson/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mipper/CLionProjects/0412_lesson/cmake-build-debug/CMakeFiles/0412_lesson.dir

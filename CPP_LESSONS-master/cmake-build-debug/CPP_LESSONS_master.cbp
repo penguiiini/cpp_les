@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CPP_LESSONS_master"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/mipper/Downloads/CPP_LESSONS-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/mipper/Downloads/CPP_LESSONS-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/mipper/Downloads/CPP_LESSONS-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/mipper/Downloads/CPP_LESSONS-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/mipper/Downloads/CPP_LESSONS-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/mipper/Downloads/CPP_LESSONS-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/mipper/Downloads/CPP_LESSONS-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/mipper/Downloads/CPP_LESSONS-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/mipper/Downloads/CPP_LESSONS-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/mipper/Downloads/CPP_LESSONS-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/mipper/Downloads/CPP_LESSONS-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/mipper/Downloads/CPP_LESSONS-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/mipper/Downloads/CPP_LESSONS-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/mipper/Downloads/CPP_LESSONS-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/mipper/Downloads/CPP_LESSONS-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CPP_LESSONS_master">
+				<Option output="/home/mipper/Downloads/CPP_LESSONS-master/cmake-build-debug/CPP_LESSONS_master" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mipper/Downloads/CPP_LESSONS-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/mipper/Downloads/CPP_LESSONS-master/."/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/11/../../../../include/c++/11"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/11/../../../../include/c++/11/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/11/../../../../include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/mipper/Downloads/CPP_LESSONS-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 CPP_LESSONS_master"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/mipper/Downloads/CPP_LESSONS-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/mipper/Downloads/CPP_LESSONS-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/mipper/Downloads/CPP_LESSONS-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CPP_LESSONS_master/fast">
+				<Option output="/home/mipper/Downloads/CPP_LESSONS-master/cmake-build-debug/CPP_LESSONS_master" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mipper/Downloads/CPP_LESSONS-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/mipper/Downloads/CPP_LESSONS-master/."/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/11/../../../../include/c++/11"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/11/../../../../include/c++/11/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/11/../../../../include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/mipper/Downloads/CPP_LESSONS-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 CPP_LESSONS_master/fast"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/mipper/Downloads/CPP_LESSONS-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/mipper/Downloads/CPP_LESSONS-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/mipper/Downloads/CPP_LESSONS-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/mipper/Downloads/CPP_LESSONS-master/06112021.cpp">
+			<Option target="CPP_LESSONS_master"/>
+		</Unit>
+		<Unit filename="/home/mipper/Downloads/CPP_LESSONS-master/13112021.cpp">
+			<Option target="CPP_LESSONS_master"/>
+		</Unit>
+		<Unit filename="/home/mipper/Downloads/CPP_LESSONS-master/Figure.cpp">
+			<Option target="CPP_LESSONS_master"/>
+		</Unit>
+		<Unit filename="/home/mipper/Downloads/CPP_LESSONS-master/Figure.h">
+			<Option target="CPP_LESSONS_master"/>
+		</Unit>
+		<Unit filename="/home/mipper/Downloads/CPP_LESSONS-master/Fraction.cpp">
+			<Option target="CPP_LESSONS_master"/>
+		</Unit>
+		<Unit filename="/home/mipper/Downloads/CPP_LESSONS-master/Fraction.h">
+			<Option target="CPP_LESSONS_master"/>
+		</Unit>
+		<Unit filename="/home/mipper/Downloads/CPP_LESSONS-master/FractionAdder.cpp">
+			<Option target="CPP_LESSONS_master"/>
+		</Unit>
+		<Unit filename="/home/mipper/Downloads/CPP_LESSONS-master/FractionAdder.h">
+			<Option target="CPP_LESSONS_master"/>
+		</Unit>
+		<Unit filename="/home/mipper/Downloads/CPP_LESSONS-master/Rectangle.cpp">
+			<Option target="CPP_LESSONS_master"/>
+		</Unit>
+		<Unit filename="/home/mipper/Downloads/CPP_LESSONS-master/Rectangle.h">
+			<Option target="CPP_LESSONS_master"/>
+		</Unit>
+		<Unit filename="/home/mipper/Downloads/CPP_LESSONS-master/Triangle.cpp">
+			<Option target="CPP_LESSONS_master"/>
+		</Unit>
+		<Unit filename="/home/mipper/Downloads/CPP_LESSONS-master/Triangle.h">
+			<Option target="CPP_LESSONS_master"/>
+		</Unit>
+		<Unit filename="/home/mipper/Downloads/CPP_LESSONS-master/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,1 @@
+void if_char_is_num(), upper(), c_reg(), spaces(), palindrom(), words();

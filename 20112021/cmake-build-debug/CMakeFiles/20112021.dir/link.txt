@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/20112021.dir/06112021.cpp.o CMakeFiles/20112021.dir/20112021.cpp.o CMakeFiles/20112021.dir/MyOOR.cpp.o CMakeFiles/20112021.dir/NumberIsTooBigException.cpp.o CMakeFiles/20112021.dir/NumberIsNegativeException.cpp.o CMakeFiles/20112021.dir/27112021.cpp.o CMakeFiles/20112021.dir/Point2D.cpp.o -o 20112021 

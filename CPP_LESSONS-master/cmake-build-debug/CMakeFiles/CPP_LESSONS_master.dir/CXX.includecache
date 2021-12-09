@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mipper/Downloads/CPP_LESSONS-master/Figure.h
+
+/home/mipper/Downloads/CPP_LESSONS-master/Triangle.cpp
+Triangle.h
+/home/mipper/Downloads/CPP_LESSONS-master/Triangle.h
+
+/home/mipper/Downloads/CPP_LESSONS-master/Triangle.h
+Figure.h
+/home/mipper/Downloads/CPP_LESSONS-master/Figure.h
+

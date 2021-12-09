@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/mipper/CLionProjects/08.12works Select CMakeLists.txt

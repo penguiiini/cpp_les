@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/0412_lesson.dir/main.cpp.o -o 0412_lesson 

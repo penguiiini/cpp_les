@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/0812.dir/main.cpp.o CMakeFiles/0812.dir/funcs.cpp.o -o 0812 
